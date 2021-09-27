@@ -28,4 +28,6 @@ Please find the changelog below. You can also follow us on Twitter for latest up
 You can update the plugin directly from your WordPress administration page by navigating to Dashboard > Updates. This applies to both free and PRO versions of the plugin.
 
 You can also download the free version of the [plugin from WordPress.org](https://wordpress.org/plugins/announcer/) and upload it manually. For the PRO version you can follow [the documentation](https://www.aakashweb.com/docs/announcer/pro/installation/#downloading-the-plugin). If you haven't got the PRO version yet, you can [get it here](https://www.aakashweb.com/wordpress-plugins/announcer/).
+
 ### Getting the LMNAs Content
+The commit is not working
