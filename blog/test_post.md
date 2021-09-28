@@ -21,3 +21,7 @@ This shortcode can be added in plugin repository settings page under "post conte
 ## Using in themes
 
 The shortcode can be used in theme directly using the `do_shortcode` function `echo do_shortcode( '[print_sc sc="{giw_edit_link}"]' );`
+
+## Summary
+
+This post is about Git it write.
